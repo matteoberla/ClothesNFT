@@ -2,6 +2,6 @@
   "id": 1,
   "name": "Okami t-shirt",
   "description" : "First T-shirt test",
-  "image": "https://github.com/matteoberla/ClothesNFT/blob/main/Thumbnails/t-shirt.png",
-  "animation_url" : "https://github.com/matteoberla/ClothesNFT/blob/main/Objects3D/t-shirt.glb"
+  "image": "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Thumbnails/t-shirt.png",
+  "animation_url" : "https://github.com/matteoberla/ClothesNFT/main/Objects3D/t-shirt.glb"
 }
