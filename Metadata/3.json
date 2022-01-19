@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "name": "smoking",
+  "description" : "First Smoking test",
+  "image": "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Thumbnails/smoking.png",
+  "animation_url" : "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Objects3D/smoking.glb"
+}

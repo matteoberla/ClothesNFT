@@ -1,0 +1,7 @@
+{
+  "id": 2,
+  "name": "hat",
+  "description" : "First Hat test",
+  "image": "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Thumbnails/hat.png",
+  "animation_url" : "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Objects3D/hat.glb"
+}

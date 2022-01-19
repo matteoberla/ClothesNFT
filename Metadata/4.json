@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "name": "boots",
+  "description" : "First Boots test",
+  "image": "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Thumbnails/boots.png",
+  "animation_url" : "https://raw.githubusercontent.com/matteoberla/ClothesNFT/main/Objects3D/boots.glb"
+}
